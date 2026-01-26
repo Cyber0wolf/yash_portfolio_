@@ -102,6 +102,12 @@ const Projects = () => {
               tech={["Python", "EDA", "Visualization"]}
               accent="border-blue-500"
             />
+            <ProjectCard
+              title="Dynamic Data Analytics Dashboard"
+              description="Built a dynamic dashboard that analyzes any uploaded dataset and automatically generates insights, statistics, and interactive visualizations."
+              tech={["Python", "Flask", "Pandas", "EDA", "Chart.js"]}
+              accent="border-cyan-500"
+            />
           </div>
         </div>
 
@@ -115,6 +121,12 @@ const Projects = () => {
               title="Face Recognition System"
               description="Face recognition using OpenCV and ML techniques."
               tech={["Python", "OpenCV", "ML"]}
+              accent="border-green-500"
+            />
+            <ProjectCard
+              title="Customer Intelligence Platform"
+              description="Built an end-to-end machine learning application to predict customer churn, segment users, and generate actionable business recommendations through an interactive dashboard."
+              tech={["Python", "Scikit-learn", "Pandas", "Streamlit", "KMeans", "Random Forest"]}
               accent="border-green-500"
             />
           </div>
@@ -136,6 +148,12 @@ const Projects = () => {
               title="Tindog - Dog Dating Website"
               description="A playful dog dating site with responsive design."
               tech={["HTML", "CSS", "bootstrap"]}
+              accent="border-purple-500"
+            />
+            <ProjectCard
+              title="Interactive Analytics Web Application"
+              description="Developed a full-stack web application with dynamic dashboards, file upload handling, and real-time data visualization."
+              tech={["Flask", "HTML", "CSS", "Bootstrap", "Chart.js"]}
               accent="border-purple-500"
             />
           </div>
