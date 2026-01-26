@@ -63,10 +63,9 @@ const Hero = () => {
         </a>
 
         <a
-          href="/Yash_Vishwakarma_CV.pdf"
+          href="public/Yash_Vishwakarma_CV.pdf"
           download
-          target="_blank"
-          rel="noopener noreferrer"
+          className="w-full sm:w-auto text-center px-6 py-3 rounded-full border border-white/30 text-white transition active:scale-95"
         >
           Download CV
         </a>
