@@ -27,7 +27,7 @@ const Experience = () => {
           {/* Role & Company */}
           <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-4">
             <h3 className="text-2xl font-semibold">
-              Software Developer — Tech Team
+              Tech/xp 
             </h3>
             <span className="text-sm text-gray-400 mt-2 md:mt-0">
               March 7, 2025 – July 17, 2025
@@ -36,7 +36,7 @@ const Experience = () => {
 
           {/* Company */}
           <p className="text-gray-300 mb-4">
-            Tech/xp · Goregaon
+            Software Developer — Tech Team  · Goregaon
           </p>
 
           {/* Description */}
